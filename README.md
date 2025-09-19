@@ -9,8 +9,7 @@ Here are the steps to set up the portable web server.
 - Click on the .exe file and a console window will pop up.
 - *DO NOT CLOSE THE CONSOLE POP-UP*.
 - All the services will be live once the 'Press Ctrl-C to close' message appears.
-- Enter <http://localhost> on your web browser. You should see a web page displaying the PHP info just like it's shown below.
-  <img width="953" height="951" alt="image" src="https://github.com/user-attachments/assets/0ad6c127-5798-469d-a80b-343fc32e3886" />
+- Enter <http://localhost> on your web browser. You should see a web page displaying the PHP info.
 - Nginx and PHP are already configured. MariaDB needs further configuration to suit your needs.
 - you can find each sub-directory for each service in the server/ folder.
 - This program writes logs to the server/logs/ folder if you need to troubleshoot the server manager itself. Otherwise use the logs for each individual service in their respective log files.
