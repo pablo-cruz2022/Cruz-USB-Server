@@ -1,0 +1,2066 @@
+2025-09-17 16:32:48 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 39868
+2025-09-17 16:32:48 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2025-09-17 16:32:48 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 16:32:48 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 16:32:48 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 16:32:48 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 16:32:48 0 [Note] InnoDB: innodb_buffer_pool_size_max=24m, innodb_buffer_pool_size=21m
+2025-09-17 16:32:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 16:32:48 0 [Note] InnoDB: Setting file './ibdata1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 16:32:48 0 [Note] InnoDB: File './ibdata1' size is now 12.000MiB.
+2025-09-17 16:32:48 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 16:32:48 0 [Note] InnoDB: Data file .//undo001 did not exist: new to be created
+2025-09-17 16:32:48 0 [Note] InnoDB: Setting file .//undo001 size to 10.000MiB
+2025-09-17 16:32:48 0 [Note] InnoDB: Database physically writes the file full: wait...
+2025-09-17 16:32:48 0 [Note] InnoDB: Data file .//undo002 did not exist: new to be created
+2025-09-17 16:32:48 0 [Note] InnoDB: Setting file .//undo002 size to 10.000MiB
+2025-09-17 16:32:48 0 [Note] InnoDB: Database physically writes the file full: wait...
+2025-09-17 16:32:48 0 [Note] InnoDB: Data file .//undo003 did not exist: new to be created
+2025-09-17 16:32:48 0 [Note] InnoDB: Setting file .//undo003 size to 10.000MiB
+2025-09-17 16:32:48 0 [Note] InnoDB: Database physically writes the file full: wait...
+2025-09-17 16:32:48 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2025-09-17 16:32:48 0 [Note] InnoDB: Doublewrite buffer created
+2025-09-17 16:32:48 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 16:32:48 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 16:32:48 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 16:32:48 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 16:32:48 0 [Note] InnoDB: log sequence number 0; transaction id 3
+2025-09-17 16:32:48 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 16:32:48 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 16:33:43 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 30004
+2025-09-17 16:33:43 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 16:33:43 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 16:33:43 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 16:33:43 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 16:33:43 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 16:33:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 16:33:43 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 16:33:43 0 [Note] InnoDB: End of log at LSN=46300
+2025-09-17 16:33:43 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 16:33:43 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 16:33:43 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 16:33:43 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 16:33:43 0 [Note] InnoDB: log sequence number 46300; transaction id 14
+2025-09-17 16:33:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 16:33:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 16:33:43 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 16:33:43 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 16:33:43
+2025-09-17 16:33:43 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 16:33:43 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 16:33:43 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 16:33:43 0 [Note] .\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 16:37:08 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 16:37:08 0 [Note] .\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 16:37:08 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 16:37:08 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 16:37:08 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 16:37:08 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 16:37:08
+2025-09-17 16:37:08 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 16:37:08 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 15
+2025-09-17 16:37:08 0 [Note] .\mariadbd.exe: Shutdown complete
+2025-09-17 17:35:45 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 22948
+2025-09-17 17:35:45 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 17:35:45 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 17:35:45 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 17:35:45 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 17:35:45 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 17:35:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 17:35:45 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 17:35:45 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 17:35:45 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 17:35:45 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 17:35:45 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 17:35:45 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 17:35:45 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 17:35:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 17:35:45 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 17:35:45 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 17:35:45 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 17:35:45
+2025-09-17 17:35:45 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 17:35:45 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 17:35:45 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 17:35:45 0 [Note] .\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 17:43:20 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 29488
+2025-09-17 17:43:20 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 17:43:20 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 17:43:20 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 17:43:20 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 17:43:20 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 17:43:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 17:43:20 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 17:43:20 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 17:43:20 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 17:43:20 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 17:43:20 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 17:43:20 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 17:43:20 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 17:43:20 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 17:43:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 17:43:20 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 17:43:20 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 17:43:20 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 17:43:20
+2025-09-17 17:43:20 0 [Note] Recovering after a crash using tc.log
+2025-09-17 17:43:20 0 [Note] Starting table crash recovery...
+2025-09-17 17:43:20 0 [Note] Crash table recovery finished.
+2025-09-17 17:43:20 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 17:43:20 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 17:43:20 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 17:43:20 0 [Note] .\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 17:43:32 3 [Warning] Access denied for user 'coast'@'localhost' (using password: NO)
+2025-09-17 17:43:55 4 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2025-09-17 17:48:07 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 37312
+2025-09-17 17:48:07 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2025-09-17 17:48:07 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2025-09-17 17:48:07 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2025-09-17 17:48:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 17:48:07 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 17:48:07 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2025-09-17 17:48:07 0 [ERROR] Aborting
+2025-09-17 18:28:54 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 9176
+2025-09-17 18:28:54 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2025-09-17 18:28:54 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2025-09-17 18:28:54 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2025-09-17 18:28:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 18:28:54 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 18:28:54 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2025-09-17 18:28:54 0 [ERROR] Aborting
+2025-09-17 18:43:07 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 18:43:07 0 [Note] .\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 18:43:07 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 18:43:08 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 18:43:08 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:43:08 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 18:43:08
+2025-09-17 18:43:08 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 18:43:08 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 18:43:08 0 [Note] .\mariadbd.exe: Shutdown complete
+2025-09-17 18:43:18 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 45460
+2025-09-17 18:43:18 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 18:43:18 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 18:43:18 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 18:43:18 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 18:43:18 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 18:43:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 18:43:18 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 18:43:18 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 18:43:18 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 18:43:18 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 18:43:18 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 18:43:18 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 18:43:18 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 18:43:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 18:43:18 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:43:18 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 18:43:18 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 18:43:18
+2025-09-17 18:43:18 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 18:43:18 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 18:43:18 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 18:43:18 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 18:43:28 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 18:43:28 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 18:43:28 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 18:43:28 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 18:43:28 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:43:28 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 18:43:28
+2025-09-17 18:43:28 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 18:43:28 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 18:43:28 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 18:43:56 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 48528
+2025-09-17 18:43:56 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 18:43:56 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 18:43:56 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 18:43:56 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 18:43:56 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 18:43:56 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 18:43:56 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 18:43:56 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 18:43:56 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 18:43:56 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 18:43:56 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 18:43:56 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 18:43:56 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 18:43:56 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 18:43:56 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:43:56 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 18:43:56 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 18:43:56
+2025-09-17 18:43:56 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 18:43:56 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 18:43:56 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 18:43:56 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 18:44:20 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 18:44:20 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 18:44:20 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 18:44:20 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 18:44:20 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:44:20 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 18:44:20
+2025-09-17 18:44:20 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 18:44:20 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 18:44:20 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 18:48:01 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 51528
+2025-09-17 18:48:01 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 18:48:01 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 18:48:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 18:48:01 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 18:48:01 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 18:48:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 18:48:01 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 18:48:01 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 18:48:01 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 18:48:01 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 18:48:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 18:48:01 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 18:48:01 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 18:48:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 18:48:01 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:48:01 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 18:48:01 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 18:48:01
+2025-09-17 18:48:01 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 18:48:01 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 18:48:01 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 18:48:01 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 18:49:10 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 18:49:10 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 18:49:10 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 18:49:10 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 18:49:10 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:49:10 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 18:49:10
+2025-09-17 18:49:10 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 18:49:10 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 18:49:10 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 18:58:45 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 27480
+2025-09-17 18:58:45 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 18:58:45 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 18:58:45 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 18:58:45 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 18:58:45 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 18:58:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 18:58:45 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 18:58:45 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 18:58:46 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 18:58:46 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 18:58:46 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 18:58:46 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 18:58:46 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 18:58:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 18:58:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:58:46 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 18:58:46 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 18:58:46
+2025-09-17 18:58:46 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 18:58:46 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 18:58:46 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 18:58:46 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 18:59:35 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 18:59:35 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 18:59:35 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 18:59:35 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 18:59:35 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 18:59:35 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 18:59:35
+2025-09-17 18:59:36 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 18:59:36 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 18:59:36 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:29:01 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 11616
+2025-09-17 19:29:01 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:29:01 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:29:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:29:01 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:29:01 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:29:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:29:01 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:29:01 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:29:01 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:29:01 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:29:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:29:01 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:29:01 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:29:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:29:01 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:29:01 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:29:01 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:29:01
+2025-09-17 19:29:02 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:29:02 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:29:02 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:29:02 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:29:58 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:29:58 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:29:58 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:29:58 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:29:58 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:29:58 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:29:58
+2025-09-17 19:29:58 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:29:58 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:29:58 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:35:50 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 37064
+2025-09-17 19:35:50 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:35:50 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:35:50 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:35:50 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:35:50 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:35:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:35:50 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:35:50 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:35:50 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:35:50 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:35:50 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:35:50 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:35:50 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:35:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:35:50 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:35:50 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:35:50 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:35:50
+2025-09-17 19:35:51 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:35:51 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:35:51 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:35:51 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:36:01 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:36:01 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:36:01 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:36:01 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:36:01 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:36:01 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:36:01
+2025-09-17 19:36:01 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:36:01 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:36:01 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:37:01 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 6148
+2025-09-17 19:37:01 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:37:01 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:37:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:37:01 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:37:01 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:37:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:37:01 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:37:01 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:37:01 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:37:01 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:37:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:37:01 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:37:01 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:37:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:37:01 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:37:01 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:37:01 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:37:01
+2025-09-17 19:37:01 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:37:01 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:37:01 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:37:01 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:38:12 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:38:12 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:38:12 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:38:12 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:38:12 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:38:12 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:38:12
+2025-09-17 19:38:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:38:13 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:38:13 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:47:46 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 51036
+2025-09-17 19:47:46 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:47:46 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:47:46 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:47:46 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:47:46 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:47:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:47:46 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:47:46 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:47:46 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:47:46 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:47:46 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:47:46 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:47:46 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:47:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:47:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:47:46 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:47:46 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:47:46
+2025-09-17 19:47:46 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:47:46 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:47:46 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:47:46 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:48:22 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:48:22 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:48:22 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:48:22 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:48:22 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:48:22 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:48:22
+2025-09-17 19:48:22 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:48:22 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:48:22 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:49:32 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 2888
+2025-09-17 19:49:32 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:49:32 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:49:32 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:49:32 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:49:32 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:49:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:49:32 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:49:32 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:49:32 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:49:32 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:49:32 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:49:32 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:49:32 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:49:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:49:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:49:32 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:49:32 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:49:32
+2025-09-17 19:49:32 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:49:32 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:49:32 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:49:32 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:49:33 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:49:33 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:49:33 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:49:33 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:49:33 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:49:33 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:49:33
+2025-09-17 19:49:34 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:49:34 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:49:34 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:53:46 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 11588
+2025-09-17 19:53:46 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:53:46 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:53:46 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:53:46 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:53:46 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:53:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:53:46 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:53:46 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:53:46 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:53:46 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:53:46 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:53:46 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:53:46 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:53:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:53:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:53:46 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:53:46 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:53:46
+2025-09-17 19:53:46 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:53:46 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:53:46 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:53:46 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:54:41 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:54:41 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:54:41 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:54:41 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:54:41 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:54:41 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:54:41
+2025-09-17 19:54:42 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:54:42 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:54:42 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:56:28 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 2216
+2025-09-17 19:56:28 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:56:28 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:56:28 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:56:28 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:56:28 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:56:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:56:28 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:56:28 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:56:28 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:56:28 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:56:28 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:56:28 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:56:28 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:56:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:56:28 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:56:28 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:56:28 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:56:28
+2025-09-17 19:56:28 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:56:28 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:56:28 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:56:28 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 19:56:40 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 19:56:40 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 19:56:40 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 19:56:40 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 19:56:40 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:56:40 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 19:56:40
+2025-09-17 19:56:41 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 19:56:41 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 19:56:41 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 19:59:33 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 45864
+2025-09-17 19:59:33 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 19:59:33 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 19:59:33 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 19:59:33 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 19:59:33 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 19:59:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 19:59:33 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 19:59:33 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 19:59:33 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 19:59:33 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 19:59:33 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 19:59:33 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 19:59:33 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 19:59:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 19:59:33 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 19:59:33 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 19:59:33 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 19:59:33
+2025-09-17 19:59:33 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 19:59:33 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 19:59:33 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 19:59:33 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 20:00:50 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 20:00:50 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 20:00:50 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 20:00:50 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 20:00:50 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:00:50 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 20:00:50
+2025-09-17 20:00:50 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 20:00:50 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 20:00:50 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 20:04:13 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 25496
+2025-09-17 20:04:13 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 20:04:13 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 20:04:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 20:04:13 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 20:04:13 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 20:04:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 20:04:13 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 20:04:13 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 20:04:13 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 20:04:13 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 20:04:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 20:04:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 20:04:13 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 20:04:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 20:04:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:04:13 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 20:04:13 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 20:04:13
+2025-09-17 20:04:14 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 20:04:14 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 20:04:14 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 20:04:14 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 20:04:18 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 20:04:18 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 20:04:18 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 20:04:18 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 20:04:18 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:04:18 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 20:04:18
+2025-09-17 20:04:18 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 20:04:18 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 20:04:18 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 20:07:36 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 27936
+2025-09-17 20:07:36 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 20:07:36 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 20:07:36 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 20:07:36 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 20:07:36 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 20:07:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 20:07:36 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 20:07:36 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 20:07:36 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 20:07:36 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 20:07:36 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 20:07:36 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 20:07:36 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 20:07:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 20:07:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:07:36 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 20:07:36 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 20:07:36
+2025-09-17 20:07:36 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 20:07:36 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 20:07:36 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 20:07:36 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 20:08:11 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 20:08:11 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 20:08:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 20:08:11 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 20:08:11 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:08:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 20:08:11
+2025-09-17 20:08:11 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 20:08:11 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 20:08:11 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-17 20:09:09 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 46888
+2025-09-17 20:09:09 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-17 20:09:09 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-17 20:09:09 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-17 20:09:09 0 [Note] InnoDB: Using ThreadPool
+2025-09-17 20:09:09 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-17 20:09:09 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-17 20:09:09 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-17 20:09:09 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-17 20:09:09 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-17 20:09:09 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-17 20:09:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-17 20:09:09 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-17 20:09:09 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-17 20:09:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-17 20:09:09 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:09:09 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-17 20:09:09 0 [Note] InnoDB: Buffer pool(s) load completed at 250917 20:09:09
+2025-09-17 20:09:09 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-17 20:09:09 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-17 20:09:09 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-17 20:09:09 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-17 20:09:22 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-17 20:09:22 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-17 20:09:22 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-17 20:09:22 0 [Note] InnoDB: Starting shutdown...
+2025-09-17 20:09:22 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-17 20:09:22 0 [Note] InnoDB: Buffer pool(s) dump completed at 250917 20:09:22
+2025-09-17 20:09:22 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-17 20:09:22 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-17 20:09:22 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-18 13:00:19 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 13800
+2025-09-18 13:00:19 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 13:00:19 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 13:00:19 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 13:00:19 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 13:00:19 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 13:00:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 13:00:19 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 13:00:19 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 13:00:19 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 13:00:19 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 13:00:19 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 13:00:19 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 13:00:19 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 13:00:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 13:00:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 13:00:19 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 13:00:19 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 13:00:19
+2025-09-18 13:00:19 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 13:00:19 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 13:00:19 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 13:00:19 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 13:01:05 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 13:01:05 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 13:01:05 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 13:01:05 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 13:01:05 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 13:01:05 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 13:01:05
+2025-09-18 13:01:06 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 13:01:06 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-18 13:01:06 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-18 13:01:56 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 52476
+2025-09-18 13:01:56 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 13:01:56 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 13:01:56 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 13:01:56 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 13:01:56 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 13:01:56 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 13:01:56 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 13:01:56 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 13:01:56 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 13:01:56 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 13:01:56 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 13:01:56 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 13:01:56 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 13:01:56 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 13:01:56 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 13:01:56 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 13:01:56 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 13:01:56
+2025-09-18 13:01:56 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 13:01:56 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 13:01:56 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 13:01:56 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 13:02:01 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 13:02:01 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 13:02:01 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 13:02:01 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 13:02:01 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 13:02:01 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 13:02:01
+2025-09-18 14:03:57 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 43548
+2025-09-18 14:03:57 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:03:57 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:03:57 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:03:57 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:03:57 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:03:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:03:57 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:03:57 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:03:57 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:03:57 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:03:57 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:03:57 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:03:57 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:03:57 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:03:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:03:57 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:03:57 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:03:57 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:03:57 0 [Note] Starting table crash recovery...
+2025-09-18 14:03:57 0 [Note] Crash table recovery finished.
+2025-09-18 14:03:57 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:03:57
+2025-09-18 14:03:57 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:03:57 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:03:57 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:03:57 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:04:36 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:04:36 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:04:36 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:04:36 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:04:36 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:04:36 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:04:36
+2025-09-18 14:12:36 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 51356
+2025-09-18 14:12:36 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:12:36 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:12:36 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:12:36 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:12:36 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:12:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:12:36 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:12:36 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:12:36 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:12:36 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:12:36 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:12:36 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:12:36 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:12:36 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:12:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:12:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:12:36 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:12:36 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:12:36 0 [Note] Starting table crash recovery...
+2025-09-18 14:12:36 0 [Note] Crash table recovery finished.
+2025-09-18 14:12:36 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:12:36
+2025-09-18 14:12:36 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:12:36 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:12:36 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:12:36 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:14:30 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:14:30 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:14:30 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:14:30 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:14:30 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:14:30 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:14:30
+2025-09-18 14:15:51 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 28124
+2025-09-18 14:15:51 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:15:51 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:15:51 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:15:51 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:15:51 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:15:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:15:51 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:15:51 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:15:51 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:15:51 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:15:51 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:15:51 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:15:51 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:15:51 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:15:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:15:51 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:15:51 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:15:51 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:15:51 0 [Note] Starting table crash recovery...
+2025-09-18 14:15:51 0 [Note] Crash table recovery finished.
+2025-09-18 14:15:51 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:15:51
+2025-09-18 14:15:52 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:15:52 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:15:52 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:15:52 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:17:04 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:17:04 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:17:04 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:17:04 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:17:04 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:17:04 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:17:04
+2025-09-18 14:19:51 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 53744
+2025-09-18 14:19:51 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:19:51 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:19:51 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:19:51 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:19:51 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:19:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:19:51 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:19:51 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:19:51 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:19:51 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:19:51 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:19:51 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:19:51 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:19:51 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:19:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:19:51 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:19:51 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:19:51 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:19:51
+2025-09-18 14:19:51 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:19:51 0 [Note] Starting table crash recovery...
+2025-09-18 14:19:51 0 [Note] Crash table recovery finished.
+2025-09-18 14:19:52 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:19:52 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:19:52 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:19:52 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:20:22 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:20:22 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:20:22 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:20:22 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:20:22 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:20:22 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:20:22
+2025-09-18 14:21:26 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 44444
+2025-09-18 14:21:26 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:21:26 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:21:26 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:21:26 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:21:26 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:21:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:21:26 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:21:26 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:21:26 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:21:26 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:21:26 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:21:26 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:21:26 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:21:26 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:21:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:21:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:21:26 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:21:26 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:21:26
+2025-09-18 14:21:26 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:21:26 0 [Note] Starting table crash recovery...
+2025-09-18 14:21:26 0 [Note] Crash table recovery finished.
+2025-09-18 14:21:27 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:21:27 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:21:27 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:21:27 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:23:09 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:23:09 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:23:09 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:23:09 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:23:09 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:23:09 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:23:09
+2025-09-18 14:30:34 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 54084
+2025-09-18 14:30:34 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:30:34 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:30:34 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:30:34 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:30:34 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:30:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:30:34 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:30:34 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:30:34 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:30:34 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:30:34 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:30:34 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:30:34 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:30:34 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:30:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:30:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:30:34 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:30:34 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:30:34
+2025-09-18 14:30:34 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:30:34 0 [Note] Starting table crash recovery...
+2025-09-18 14:30:34 0 [Note] Crash table recovery finished.
+2025-09-18 14:30:34 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:30:34 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:30:34 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:30:34 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:31:59 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:31:59 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:31:59 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:31:59 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:32:00 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:32:00 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:32:00
+2025-09-18 14:35:05 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 12500
+2025-09-18 14:35:05 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:35:05 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:35:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:35:05 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:35:05 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:35:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:35:05 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:35:05 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:35:05 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:35:05 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:35:05 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:35:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:35:05 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:35:05 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:35:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:35:05 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:35:05 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:35:05 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:35:05 0 [Note] Starting table crash recovery...
+2025-09-18 14:35:05 0 [Note] Crash table recovery finished.
+2025-09-18 14:35:05 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:35:05
+2025-09-18 14:35:05 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:35:05 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:35:05 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:35:05 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:35:42 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:35:42 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:35:42 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:35:42 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:35:42 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:35:42 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:35:42
+2025-09-18 14:39:54 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 16664
+2025-09-18 14:39:54 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:39:54 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:39:54 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:39:54 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:39:54 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:39:54 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:39:54 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:39:54 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:39:54 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:39:54 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:39:54 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:39:54 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:39:54 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:39:54 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:39:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:39:54 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:39:54 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:39:54 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:39:54 0 [Note] Starting table crash recovery...
+2025-09-18 14:39:54 0 [Note] Crash table recovery finished.
+2025-09-18 14:39:54 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:39:54
+2025-09-18 14:39:54 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:39:54 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:39:54 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:39:54 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:40:33 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:40:33 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:40:33 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:40:33 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:40:33 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:40:33 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:40:33
+2025-09-18 14:58:55 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 50452
+2025-09-18 14:58:55 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 14:58:55 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 14:58:55 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 14:58:55 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 14:58:55 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 14:58:55 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 14:58:55 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 14:58:55 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 14:58:55 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 14:58:55 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 14:58:55 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 14:58:55 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 14:58:55 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 14:58:55 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 14:58:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 14:58:55 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:58:55 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 14:58:55 0 [Note] Recovering after a crash using tc.log
+2025-09-18 14:58:55 0 [Note] Starting table crash recovery...
+2025-09-18 14:58:55 0 [Note] Crash table recovery finished.
+2025-09-18 14:58:55 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 14:58:55
+2025-09-18 14:58:55 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 14:58:55 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 14:58:55 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 14:58:55 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 14:59:27 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 14:59:27 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 14:59:27 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 14:59:27 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 14:59:27 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 14:59:27 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 14:59:27
+2025-09-18 15:02:45 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 39872
+2025-09-18 15:02:45 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:02:45 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:02:45 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:02:45 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:02:45 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:02:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:02:45 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:02:45 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:02:45 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:02:45 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:02:45 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:02:45 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:02:45 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:02:45 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:02:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:02:45 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:02:45 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:02:45 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:02:45 0 [Note] Starting table crash recovery...
+2025-09-18 15:02:45 0 [Note] Crash table recovery finished.
+2025-09-18 15:02:45 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:02:45
+2025-09-18 15:02:45 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:02:45 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:02:45 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:02:45 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:03:52 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:03:52 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:03:52 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:03:52 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:03:52 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:03:52 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:03:52
+2025-09-18 15:07:44 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 42700
+2025-09-18 15:07:44 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:07:44 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:07:44 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:07:44 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:07:44 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:07:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:07:44 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:07:44 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:07:44 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:07:44 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:07:44 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:07:44 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:07:44 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:07:44 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:07:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:07:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:07:44 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:07:44 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:07:44 0 [Note] Starting table crash recovery...
+2025-09-18 15:07:44 0 [Note] Crash table recovery finished.
+2025-09-18 15:07:44 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:07:44
+2025-09-18 15:07:45 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:07:45 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:07:45 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:07:45 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:10:58 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:10:58 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:10:58 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:10:58 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:10:58 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:10:58 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:10:58
+2025-09-18 15:14:48 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 22196
+2025-09-18 15:14:48 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:14:48 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:14:48 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:14:48 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:14:48 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:14:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:14:48 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:14:48 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:14:48 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:14:48 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:14:48 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:14:48 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:14:48 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:14:48 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:14:48 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:14:48 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:14:48 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:14:48 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:14:48 0 [Note] Starting table crash recovery...
+2025-09-18 15:14:48 0 [Note] Crash table recovery finished.
+2025-09-18 15:14:48 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:14:48
+2025-09-18 15:14:49 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:14:49 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:14:49 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:14:49 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:18:23 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:18:23 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:18:23 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:18:23 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:18:23 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:18:23 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:18:23
+2025-09-18 15:19:17 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 35032
+2025-09-18 15:19:17 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:19:17 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:19:17 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:19:17 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:19:17 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:19:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:19:17 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:19:17 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:19:17 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:19:17 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:19:17 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:19:17 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:19:17 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:19:17 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:19:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:19:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:19:17 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:19:17 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:19:17 0 [Note] Starting table crash recovery...
+2025-09-18 15:19:17 0 [Note] Crash table recovery finished.
+2025-09-18 15:19:17 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:19:17
+2025-09-18 15:19:17 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:19:17 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:19:17 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:19:17 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:20:03 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:20:03 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:20:03 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:20:03 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:20:03 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:20:03 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:20:03
+2025-09-18 15:21:13 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 43244
+2025-09-18 15:21:13 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:21:13 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:21:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:21:13 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:21:13 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:21:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:21:13 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:21:13 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:21:13 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:21:13 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:21:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:21:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:21:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:21:13 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:21:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:21:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:21:13 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:21:13 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:21:13 0 [Note] Starting table crash recovery...
+2025-09-18 15:21:13 0 [Note] Crash table recovery finished.
+2025-09-18 15:21:13 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:21:13
+2025-09-18 15:21:13 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:21:13 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:21:13 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:21:13 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:25:55 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:25:55 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:25:55 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:25:55 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:25:55 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:25:55 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:25:55
+2025-09-18 15:26:28 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 3592
+2025-09-18 15:26:28 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:26:28 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:26:28 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:26:28 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:26:28 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:26:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:26:28 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:26:28 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:26:28 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:26:28 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:26:28 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:26:28 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:26:28 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:26:28 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:26:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:26:28 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:26:28 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:26:28 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:26:28 0 [Note] Starting table crash recovery...
+2025-09-18 15:26:28 0 [Note] Crash table recovery finished.
+2025-09-18 15:26:28 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:26:28
+2025-09-18 15:26:28 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:26:28 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:26:28 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:26:28 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:27:32 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:27:32 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:27:32 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:27:32 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:27:32 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:27:32 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:27:32
+2025-09-18 15:28:05 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 48364
+2025-09-18 15:28:05 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:28:05 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:28:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:28:05 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:28:05 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:28:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:28:05 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:28:05 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:28:05 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:28:05 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:28:05 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:28:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:28:05 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:28:05 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:28:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:28:05 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:28:05 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:28:05 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:28:05 0 [Note] Starting table crash recovery...
+2025-09-18 15:28:05 0 [Note] Crash table recovery finished.
+2025-09-18 15:28:05 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:28:05
+2025-09-18 15:28:05 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:28:05 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:28:05 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:28:05 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:29:04 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:29:04 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:29:04 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:29:04 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:29:04 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:29:04 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:29:04
+2025-09-18 15:29:43 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 47708
+2025-09-18 15:29:43 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:29:43 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:29:43 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:29:43 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:29:43 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:29:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:29:43 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:29:43 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:29:43 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:29:43 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:29:43 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:29:43 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:29:43 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:29:43 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:29:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:29:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:29:43 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:29:43 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:29:43 0 [Note] Starting table crash recovery...
+2025-09-18 15:29:43 0 [Note] Crash table recovery finished.
+2025-09-18 15:29:43 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:29:43
+2025-09-18 15:29:43 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:29:43 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:29:43 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:29:43 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:30:44 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:30:44 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:30:44 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:30:44 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:30:44 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:30:44 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:30:44
+2025-09-18 15:31:34 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 18316
+2025-09-18 15:31:34 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:31:34 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:31:34 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:31:34 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:31:34 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:31:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:31:34 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:31:34 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:31:34 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:31:34 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:31:34 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:31:34 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:31:34 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:31:34 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:31:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:31:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:31:34 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:31:34 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:31:34 0 [Note] Starting table crash recovery...
+2025-09-18 15:31:34 0 [Note] Crash table recovery finished.
+2025-09-18 15:31:34 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:31:34
+2025-09-18 15:31:34 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:31:34 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:31:34 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:31:34 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:32:11 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:32:11 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:32:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:32:11 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:32:11 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:32:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:32:11
+2025-09-18 15:33:37 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 30764
+2025-09-18 15:33:37 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 15:33:37 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 15:33:37 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 15:33:37 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 15:33:37 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 15:33:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 15:33:37 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 15:33:37 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 15:33:37 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 15:33:37 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 15:33:37 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 15:33:37 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 15:33:37 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 15:33:37 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 15:33:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 15:33:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:33:37 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 15:33:37 0 [Note] Recovering after a crash using tc.log
+2025-09-18 15:33:37 0 [Note] Starting table crash recovery...
+2025-09-18 15:33:37 0 [Note] Crash table recovery finished.
+2025-09-18 15:33:37 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 15:33:37
+2025-09-18 15:33:37 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 15:33:37 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 15:33:37 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 15:33:37 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 15:34:54 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 15:34:54 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 15:34:54 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 15:34:54 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 15:34:54 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 15:34:54 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 15:34:54
+2025-09-18 17:39:25 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 43800
+2025-09-18 17:39:25 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 17:39:25 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 17:39:25 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 17:39:25 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 17:39:25 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 17:39:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 17:39:25 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 17:39:25 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 17:39:25 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 17:39:25 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 17:39:25 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 17:39:25 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 17:39:25 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 17:39:25 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 17:39:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 17:39:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 17:39:25 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 17:39:25 0 [Note] Recovering after a crash using tc.log
+2025-09-18 17:39:25 0 [Note] Starting table crash recovery...
+2025-09-18 17:39:25 0 [Note] Crash table recovery finished.
+2025-09-18 17:39:25 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 17:39:25
+2025-09-18 17:39:26 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 17:39:26 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 17:39:26 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 17:39:26 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 18:19:52 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 18:19:52 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 18:19:52 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 18:19:52 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 18:19:52 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 18:19:52 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 18:19:52
+2025-09-18 18:24:45 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 31448
+2025-09-18 18:24:45 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 18:24:45 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 18:24:45 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 18:24:45 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 18:24:45 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 18:24:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 18:24:45 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 18:24:45 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 18:24:45 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 18:24:45 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 18:24:45 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 18:24:45 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 18:24:45 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 18:24:45 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 18:24:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 18:24:45 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 18:24:45 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 18:24:45 0 [Note] Recovering after a crash using tc.log
+2025-09-18 18:24:45 0 [Note] Starting table crash recovery...
+2025-09-18 18:24:45 0 [Note] Crash table recovery finished.
+2025-09-18 18:24:45 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 18:24:45
+2025-09-18 18:24:46 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 18:24:46 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 18:24:46 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 18:24:46 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 18:26:08 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 18:26:08 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 18:26:08 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 18:26:08 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 18:26:08 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 18:26:08 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 18:26:08
+2025-09-18 18:30:26 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 19880
+2025-09-18 18:30:26 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 18:30:26 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 18:30:26 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 18:30:26 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 18:30:26 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 18:30:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 18:30:26 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 18:30:26 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 18:30:26 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 18:30:26 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 18:30:26 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 18:30:26 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 18:30:26 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 18:30:26 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 18:30:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 18:30:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 18:30:26 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 18:30:26 0 [Note] Recovering after a crash using tc.log
+2025-09-18 18:30:26 0 [Note] Starting table crash recovery...
+2025-09-18 18:30:26 0 [Note] Crash table recovery finished.
+2025-09-18 18:30:26 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 18:30:26
+2025-09-18 18:30:26 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 18:30:26 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 18:30:26 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 18:30:26 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 18:30:30 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 18:30:30 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 18:30:30 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 18:30:30 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 18:30:30 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 18:30:30 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 18:30:30
+2025-09-18 19:22:27 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 39840
+2025-09-18 19:22:27 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 19:22:27 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 19:22:27 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 19:22:27 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 19:22:27 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 19:22:27 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 19:22:27 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 19:22:27 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 19:22:27 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 19:22:27 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 19:22:27 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 19:22:27 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 19:22:27 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 19:22:27 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 19:22:27 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 19:22:27 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 19:22:27 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 19:22:27 0 [Note] Recovering after a crash using tc.log
+2025-09-18 19:22:27 0 [Note] Starting table crash recovery...
+2025-09-18 19:22:27 0 [Note] Crash table recovery finished.
+2025-09-18 19:22:27 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 19:22:27
+2025-09-18 19:22:28 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 19:22:28 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 19:22:28 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 19:22:28 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 19:22:53 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 19:22:53 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 19:22:53 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 19:22:53 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 19:22:53 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 19:22:53 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 19:22:53
+2025-09-18 20:17:05 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 25488
+2025-09-18 20:17:05 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 20:17:05 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 20:17:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 20:17:05 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 20:17:05 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 20:17:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 20:17:05 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 20:17:05 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 20:17:05 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 20:17:05 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 20:17:05 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 20:17:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 20:17:05 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 20:17:05 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 20:17:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 20:17:05 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:17:05 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 20:17:05 0 [Note] Recovering after a crash using tc.log
+2025-09-18 20:17:05 0 [Note] Starting table crash recovery...
+2025-09-18 20:17:05 0 [Note] Crash table recovery finished.
+2025-09-18 20:17:05 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 20:17:05
+2025-09-18 20:17:06 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 20:17:06 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 20:17:06 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 20:17:06 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 20:17:39 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 20:17:39 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 20:17:39 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 20:17:39 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 20:17:39 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:17:39 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 20:17:39
+2025-09-18 20:53:25 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 11604
+2025-09-18 20:53:25 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 20:53:25 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 20:53:25 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 20:53:25 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 20:53:25 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 20:53:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 20:53:25 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 20:53:25 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 20:53:25 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 20:53:25 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 20:53:25 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 20:53:25 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 20:53:25 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 20:53:25 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 20:53:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 20:53:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:53:25 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 20:53:25 0 [Note] Recovering after a crash using tc.log
+2025-09-18 20:53:25 0 [Note] Starting table crash recovery...
+2025-09-18 20:53:25 0 [Note] Crash table recovery finished.
+2025-09-18 20:53:25 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 20:53:25
+2025-09-18 20:53:25 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 20:53:25 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 20:53:25 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 20:53:25 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 20:54:52 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 20:54:52 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 20:54:52 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 20:54:52 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 20:54:52 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:54:52 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 20:54:52
+2025-09-18 20:58:37 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 30976
+2025-09-18 20:58:37 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 20:58:37 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 20:58:37 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 20:58:37 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 20:58:37 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 20:58:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 20:58:37 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 20:58:37 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 20:58:37 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 20:58:37 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 20:58:37 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 20:58:37 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 20:58:37 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 20:58:37 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 20:58:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 20:58:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:58:37 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 20:58:37 0 [Note] Recovering after a crash using tc.log
+2025-09-18 20:58:37 0 [Note] Starting table crash recovery...
+2025-09-18 20:58:37 0 [Note] Crash table recovery finished.
+2025-09-18 20:58:37 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 20:58:37
+2025-09-18 20:58:37 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 20:58:37 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 20:58:37 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 20:58:37 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 20:58:40 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 20:58:40 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 20:58:40 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 20:58:40 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 20:58:40 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 20:58:40 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 20:58:40
+2025-09-18 21:10:26 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 18652
+2025-09-18 21:10:26 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:10:26 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:10:26 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:10:26 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:10:26 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:10:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:10:26 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:10:26 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:10:26 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:10:26 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:10:26 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:10:26 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:10:26 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:10:26 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:10:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:10:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:10:26 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:10:26 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:10:26 0 [Note] Starting table crash recovery...
+2025-09-18 21:10:26 0 [Note] Crash table recovery finished.
+2025-09-18 21:10:26 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:10:26
+2025-09-18 21:10:26 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:10:26 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:10:26 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:10:26 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:11:25 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:11:25 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:11:25 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:11:25 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:11:25 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:11:25 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:11:25
+2025-09-18 21:14:52 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 34356
+2025-09-18 21:14:52 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:14:52 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:14:52 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:14:52 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:14:52 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:14:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:14:52 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:14:52 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:14:52 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:14:52 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:14:52 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:14:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:14:52 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:14:52 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:14:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:14:52 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:14:52 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:14:52 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:14:52 0 [Note] Starting table crash recovery...
+2025-09-18 21:14:52 0 [Note] Crash table recovery finished.
+2025-09-18 21:14:52 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:14:52
+2025-09-18 21:14:52 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:14:52 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:14:52 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:14:52 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:14:59 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:14:59 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:14:59 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:14:59 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:14:59 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:14:59 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:14:59
+2025-09-18 21:16:15 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 54192
+2025-09-18 21:16:15 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:16:15 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:16:15 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:16:15 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:16:15 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:16:15 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:16:15 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:16:15 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:16:15 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:16:15 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:16:15 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:16:15 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:16:15 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:16:15 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:16:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:16:15 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:16:15 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:16:15 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:16:15 0 [Note] Starting table crash recovery...
+2025-09-18 21:16:15 0 [Note] Crash table recovery finished.
+2025-09-18 21:16:15 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:16:15
+2025-09-18 21:16:15 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:16:15 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:16:15 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:16:15 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:16:38 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:16:38 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:16:38 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:16:38 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:16:38 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:16:38 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:16:38
+2025-09-18 21:17:24 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 52704
+2025-09-18 21:17:24 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:17:24 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:17:24 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:17:24 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:17:24 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:17:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:17:24 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:17:24 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:17:24 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:17:24 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:17:24 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:17:24 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:17:24 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:17:24 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:17:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:17:24 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:17:24 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:17:24 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:17:24 0 [Note] Starting table crash recovery...
+2025-09-18 21:17:24 0 [Note] Crash table recovery finished.
+2025-09-18 21:17:24 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:17:24
+2025-09-18 21:17:24 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:17:24 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:17:24 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:17:24 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:17:36 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:17:36 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:17:36 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:17:36 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:17:36 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:17:36 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:17:36
+2025-09-18 21:19:59 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 23568
+2025-09-18 21:19:59 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:19:59 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:19:59 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:19:59 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:19:59 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:19:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:19:59 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:19:59 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:19:59 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:19:59 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:19:59 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:19:59 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:19:59 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:19:59 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:19:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:19:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:19:59 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:19:59 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:19:59 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:19:59
+2025-09-18 21:19:59 0 [Note] Starting table crash recovery...
+2025-09-18 21:19:59 0 [Note] Crash table recovery finished.
+2025-09-18 21:20:00 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:20:00 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:20:00 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:20:00 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:20:05 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:20:05 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:20:05 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:20:05 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:20:05 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:20:05 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:20:05
+2025-09-18 21:20:05 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:20:05 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-18 21:20:05 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-18 21:21:52 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 25004
+2025-09-18 21:21:52 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:21:52 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:21:52 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:21:52 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:21:52 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:21:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:21:52 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:21:52 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:21:52 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:21:52 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:21:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:21:52 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:21:52 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:21:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:21:52 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:21:52 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:21:52 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:21:52
+2025-09-18 21:21:52 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:21:52 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:21:52 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:21:52 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:21:54 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:21:54 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:21:54 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:21:54 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:21:54 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:21:54 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:21:54
+2025-09-18 21:21:55 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:21:55 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-18 21:21:55 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
+2025-09-18 21:22:50 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 2640
+2025-09-18 21:22:50 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:22:50 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:22:50 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:22:50 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:22:50 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:22:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:22:50 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:22:50 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:22:50 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:22:50 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:22:50 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:22:50 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:22:50 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:22:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:22:50 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:22:50 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:22:50 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:22:50
+2025-09-18 21:22:50 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:22:50 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:22:50 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:22:50 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:22:58 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:22:58 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:22:58 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:22:58 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:22:58 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:22:58 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:22:58
+2025-09-18 21:24:29 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 33136
+2025-09-18 21:24:29 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:24:29 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:24:29 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:24:29 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:24:29 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:24:29 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:24:29 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:24:29 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:24:29 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:24:29 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:24:29 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:24:29 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:24:29 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:24:29 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:24:29 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:24:29 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:24:29 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:24:29 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:24:29 0 [Note] Starting table crash recovery...
+2025-09-18 21:24:29 0 [Note] Crash table recovery finished.
+2025-09-18 21:24:29 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:24:29
+2025-09-18 21:24:29 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:24:29 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:24:29 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:24:29 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:24:32 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:24:32 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:24:32 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:24:32 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:24:32 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:24:32 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:24:32
+2025-09-18 21:26:04 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 34488
+2025-09-18 21:26:04 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:26:04 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:26:04 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:26:04 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:26:04 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:26:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:26:04 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:26:04 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:26:04 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:26:04 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:26:04 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:26:04 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:26:04 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:26:04 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:26:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:26:04 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:26:04 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:26:04 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:26:04 0 [Note] Starting table crash recovery...
+2025-09-18 21:26:04 0 [Note] Crash table recovery finished.
+2025-09-18 21:26:04 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:26:04
+2025-09-18 21:26:05 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:26:05 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:26:05 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:26:05 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:26:07 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:26:07 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:26:07 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:26:07 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:26:07 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:26:07 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:26:07
+2025-09-18 21:29:01 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 52008
+2025-09-18 21:29:01 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:29:01 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:29:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:29:01 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:29:01 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:29:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:29:01 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:29:01 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:29:01 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:29:01 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:29:01 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:29:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:29:01 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:29:01 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:29:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:29:01 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:29:01 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:29:01 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:29:01 0 [Note] Starting table crash recovery...
+2025-09-18 21:29:01 0 [Note] Crash table recovery finished.
+2025-09-18 21:29:01 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:29:01
+2025-09-18 21:29:01 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:29:01 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:29:01 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:29:01 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:29:03 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:29:03 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:29:03 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:29:03 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:29:03 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:29:03 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:29:03
+2025-09-18 21:32:35 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 13460
+2025-09-18 21:32:35 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:32:35 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:32:35 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:32:35 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:32:35 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:32:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:32:35 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:32:35 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:32:35 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:32:35 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:32:35 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:32:35 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:32:35 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:32:35 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:32:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:32:35 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:32:35 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:32:35 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:32:35 0 [Note] Starting table crash recovery...
+2025-09-18 21:32:35 0 [Note] Crash table recovery finished.
+2025-09-18 21:32:35 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:32:35
+2025-09-18 21:32:35 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:32:35 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:32:35 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:32:35 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:32:43 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:32:43 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:32:43 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:32:43 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:32:43 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:32:43 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:32:43
+2025-09-18 21:35:10 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 45936
+2025-09-18 21:35:10 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:35:10 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:35:10 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:35:10 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:35:10 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:35:10 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:35:10 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:35:10 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:35:10 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:35:10 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:35:10 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:35:10 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:35:10 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:35:10 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:35:10 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:35:10 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:35:10 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:35:10 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:35:10 0 [Note] Starting table crash recovery...
+2025-09-18 21:35:10 0 [Note] Crash table recovery finished.
+2025-09-18 21:35:10 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:35:10
+2025-09-18 21:35:11 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:35:11 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:35:11 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:35:11 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:35:13 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:35:13 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:35:13 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:35:13 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:35:13 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:35:13 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:35:13
+2025-09-18 21:35:31 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 27668
+2025-09-18 21:35:31 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:35:31 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:35:31 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:35:31 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:35:31 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:35:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:35:31 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:35:31 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:35:31 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:35:31 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:35:31 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:35:31 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:35:31 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:35:31 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:35:31 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:35:31 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:35:31 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:35:31 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:35:31 0 [Note] Starting table crash recovery...
+2025-09-18 21:35:31 0 [Note] Crash table recovery finished.
+2025-09-18 21:35:31 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:35:31
+2025-09-18 21:35:32 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:35:32 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:35:32 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:35:32 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:35:33 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:35:33 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:35:33 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:35:33 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:35:33 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:35:33 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:35:33
+2025-09-18 21:37:13 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 45280
+2025-09-18 21:37:13 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:37:13 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:37:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:37:13 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:37:13 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:37:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:37:13 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:37:13 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:37:13 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:37:13 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:37:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:37:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:37:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:37:13 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:37:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:37:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:37:13 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:37:13 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:37:13 0 [Note] Starting table crash recovery...
+2025-09-18 21:37:13 0 [Note] Crash table recovery finished.
+2025-09-18 21:37:13 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:37:13
+2025-09-18 21:37:13 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:37:13 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:37:13 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:37:13 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:37:21 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:37:21 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:37:21 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:37:21 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:37:21 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:37:21 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:37:21
+2025-09-18 21:38:02 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 43416
+2025-09-18 21:38:02 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:38:02 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:38:02 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:38:02 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:38:02 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:38:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:38:02 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:38:02 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:38:03 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:38:03 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:38:03 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:38:03 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:38:03 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:38:03 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:38:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:38:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:38:03 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:38:03 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:38:03 0 [Note] Starting table crash recovery...
+2025-09-18 21:38:03 0 [Note] Crash table recovery finished.
+2025-09-18 21:38:03 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:38:03
+2025-09-18 21:38:03 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:38:03 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:38:03 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:38:03 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:38:22 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:38:22 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:38:22 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:38:22 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:38:22 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:38:22 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:38:22
+2025-09-18 21:53:13 0 [Note] Starting MariaDB 12.0.2-MariaDB source revision aab83aecdca15738d114cf5a2f223f1d12e4e6bd server_uid OfCzv475/whlQ7OQKAHeaYOHaQw= as process 16340
+2025-09-18 21:53:13 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-09-18 21:53:13 0 [Note] InnoDB: Number of transaction pools: 1
+2025-09-18 21:53:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-09-18 21:53:13 0 [Note] InnoDB: Using ThreadPool
+2025-09-18 21:53:13 0 [Note] InnoDB: innodb_buffer_pool_size_max=128m, innodb_buffer_pool_size=128m
+2025-09-18 21:53:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-09-18 21:53:13 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-09-18 21:53:13 0 [Note] InnoDB: End of log at LSN=47875
+2025-09-18 21:53:13 0 [Note] InnoDB: Opened 3 undo tablespaces
+2025-09-18 21:53:13 0 [Note] InnoDB: 128 rollback segments in 3 undo tablespaces are active.
+2025-09-18 21:53:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:53:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-09-18 21:53:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-09-18 21:53:13 0 [Note] InnoDB: log sequence number 47875; transaction id 15
+2025-09-18 21:53:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-09-18 21:53:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:53:13 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2025-09-18 21:53:13 0 [Note] Recovering after a crash using tc.log
+2025-09-18 21:53:13 0 [Note] Starting table crash recovery...
+2025-09-18 21:53:13 0 [Note] Crash table recovery finished.
+2025-09-18 21:53:13 0 [Note] InnoDB: Buffer pool(s) load completed at 250918 21:53:13
+2025-09-18 21:53:13 0 [Note] Server socket created on IP: '::', port: '3306'.
+2025-09-18 21:53:13 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2025-09-18 21:53:13 0 [Note] mariadbd.exe: Event Scheduler: Loaded 0 events
+2025-09-18 21:53:13 0 [Note] server\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '12.0.2-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-09-18 21:53:37 0 [Note] console_event_handler: received CTRL_C_EVENT event, shutting down
+2025-09-18 21:53:37 0 [Note] server\mariadb\bin\mariadbd.exe (initiated by: unknown): Normal shutdown
+2025-09-18 21:53:37 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-09-18 21:53:37 0 [Note] InnoDB: Starting shutdown...
+2025-09-18 21:53:37 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\coast\source\repos\Cruz USB Server\server\mariadb\data\ib_buffer_pool
+2025-09-18 21:53:37 0 [Note] InnoDB: Buffer pool(s) dump completed at 250918 21:53:37
+2025-09-18 21:53:38 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2025-09-18 21:53:38 0 [Note] InnoDB: Shutdown completed; log sequence number 47875; transaction id 16
+2025-09-18 21:53:38 0 [Note] server\mariadb\bin\mariadbd.exe: Shutdown complete
